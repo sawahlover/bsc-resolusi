@@ -4,6 +4,7 @@ RENCANA KONTEN BSC
   *ES6
   *Framework
    ^view
+   ^Reach
 -Struktur data dasar
 -PHP Framework
  ^codeigniter
