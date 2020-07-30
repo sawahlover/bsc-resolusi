@@ -1,0 +1,8 @@
+RENCANA KONTEN BSC
+
+-Javascript
+  *ES6
+  *Framework
+-PHP Framework
+-Interview
+-Vlogs
