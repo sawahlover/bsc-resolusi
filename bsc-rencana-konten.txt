@@ -3,7 +3,9 @@ RENCANA KONTEN BSC
 -Javascript
   *ES6
   *Framework
--Struktur data dasar
+   ^angular
+   ^Reach
 -PHP Framework
+  ^codeigniter
 -Interview
 -Vlogs
